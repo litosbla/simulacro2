@@ -1,0 +1,67 @@
+{
+    "Departamentos": [
+        {
+            "idDep": 1,
+            "nomDepartamento": "Santander",
+            "Ciudades": [
+                {
+                    "idCiudad": 1,
+                    "nomCiudad": "Bucaramanga",
+                    "imagen": "bucaramanga.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                },
+                {
+                    "idCiudad": 2,
+                    "nomCiudad": "Barrancabermeja",
+                    "imagen": "barranca.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                }
+            ]
+        },
+        {
+            "idDep": 2,
+            "nomDepartamento": "Cundinamarca",
+            "Ciudades": [
+                {
+                    "idCiudad": 3,
+                    "nomCiudad": "Bogot\u00e1",
+                    "imagen": "  bogota.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                },
+                {
+                    "idCiudad": 4,
+                    "nomCiudad": "Cajic\u00e1",
+                    "imagen": "  cajica.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                }
+            ]
+        },
+        {
+            "idDep": 3,
+            "nomDepartamento": "Antioquia",
+            "Ciudades": [
+                {
+                    "idCiudad": 5,
+                    "nomCiudad": "bucaramanga",
+                    "imagen": "bucaramanga.jpg",
+                    "cordenadas": {
+                        "lat": 23,
+                        "lon": 72
+                    }
+                }
+            ]
+        }
+    ]
+}
